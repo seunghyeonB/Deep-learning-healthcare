@@ -1,0 +1,1052 @@
+[
+    {
+        "temperature": 99.5,
+        "bloodPressure": 113,
+        "heartRate": 72,
+        "respiratoryRate": 10,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.3,
+        "bloodPressure": 158,
+        "heartRate": 82,
+        "respiratoryRate": 14,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.8,
+        "bloodPressure": 133,
+        "heartRate": 54,
+        "respiratoryRate": 13,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 126,
+        "heartRate": 57,
+        "respiratoryRate": 10,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.4,
+        "bloodPressure": 160,
+        "heartRate": 84,
+        "respiratoryRate": 12,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 115,
+        "heartRate": 87,
+        "respiratoryRate": 20,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.7,
+        "bloodPressure": 150,
+        "heartRate": 68,
+        "respiratoryRate": 17,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.0,
+        "bloodPressure": 149,
+        "heartRate": 87,
+        "respiratoryRate": 16,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 105,
+        "heartRate": 110,
+        "respiratoryRate": 23,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.1,
+        "bloodPressure": 117,
+        "heartRate": 70,
+        "respiratoryRate": 21,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.2,
+        "bloodPressure": 102,
+        "heartRate": 103,
+        "respiratoryRate": 20,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.4,
+        "bloodPressure": 136,
+        "heartRate": 108,
+        "respiratoryRate": 22,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.7,
+        "bloodPressure": 157,
+        "heartRate": 50,
+        "respiratoryRate": 22,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 90,
+        "heartRate": 108,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.4,
+        "bloodPressure": 147,
+        "heartRate": 75,
+        "respiratoryRate": 10,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.9,
+        "bloodPressure": 130,
+        "heartRate": 92,
+        "respiratoryRate": 11,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.5,
+        "bloodPressure": 118,
+        "heartRate": 84,
+        "respiratoryRate": 11,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.2,
+        "bloodPressure": 94,
+        "heartRate": 75,
+        "respiratoryRate": 18,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.9,
+        "bloodPressure": 100,
+        "heartRate": 65,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.3,
+        "bloodPressure": 117,
+        "heartRate": 108,
+        "respiratoryRate": 21,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.9,
+        "bloodPressure": 94,
+        "heartRate": 83,
+        "respiratoryRate": 17,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.3,
+        "bloodPressure": 145,
+        "heartRate": 77,
+        "respiratoryRate": 14,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.7,
+        "bloodPressure": 104,
+        "heartRate": 93,
+        "respiratoryRate": 18,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.7,
+        "bloodPressure": 101,
+        "heartRate": 98,
+        "respiratoryRate": 14,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.4,
+        "bloodPressure": 151,
+        "heartRate": 60,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.2,
+        "bloodPressure": 126,
+        "heartRate": 70,
+        "respiratoryRate": 19,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.9,
+        "bloodPressure": 146,
+        "heartRate": 63,
+        "respiratoryRate": 17,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.7,
+        "bloodPressure": 92,
+        "heartRate": 57,
+        "respiratoryRate": 21,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.3,
+        "bloodPressure": 126,
+        "heartRate": 91,
+        "respiratoryRate": 24,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.9,
+        "bloodPressure": 97,
+        "heartRate": 96,
+        "respiratoryRate": 18,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 138,
+        "heartRate": 102,
+        "respiratoryRate": 12,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.0,
+        "bloodPressure": 119,
+        "heartRate": 109,
+        "respiratoryRate": 15,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.7,
+        "bloodPressure": 122,
+        "heartRate": 107,
+        "respiratoryRate": 21,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.8,
+        "bloodPressure": 151,
+        "heartRate": 70,
+        "respiratoryRate": 19,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 96,
+        "heartRate": 106,
+        "respiratoryRate": 25,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.5,
+        "bloodPressure": 138,
+        "heartRate": 109,
+        "respiratoryRate": 18,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.7,
+        "bloodPressure": 131,
+        "heartRate": 97,
+        "respiratoryRate": 23,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 140,
+        "heartRate": 107,
+        "respiratoryRate": 23,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.2,
+        "bloodPressure": 150,
+        "heartRate": 97,
+        "respiratoryRate": 17,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 159,
+        "heartRate": 87,
+        "respiratoryRate": 10,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.5,
+        "bloodPressure": 109,
+        "heartRate": 102,
+        "respiratoryRate": 11,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.1,
+        "bloodPressure": 122,
+        "heartRate": 78,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.2,
+        "bloodPressure": 112,
+        "heartRate": 54,
+        "respiratoryRate": 13,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.3,
+        "bloodPressure": 90,
+        "heartRate": 64,
+        "respiratoryRate": 15,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.1,
+        "bloodPressure": 90,
+        "heartRate": 86,
+        "respiratoryRate": 10,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.0,
+        "bloodPressure": 130,
+        "heartRate": 52,
+        "respiratoryRate": 22,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 147,
+        "heartRate": 73,
+        "respiratoryRate": 8,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.7,
+        "bloodPressure": 140,
+        "heartRate": 90,
+        "respiratoryRate": 20,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.2,
+        "bloodPressure": 133,
+        "heartRate": 55,
+        "respiratoryRate": 10,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.4,
+        "bloodPressure": 149,
+        "heartRate": 66,
+        "respiratoryRate": 24,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.3,
+        "bloodPressure": 111,
+        "heartRate": 82,
+        "respiratoryRate": 10,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 121,
+        "heartRate": 53,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.7,
+        "bloodPressure": 159,
+        "heartRate": 53,
+        "respiratoryRate": 15,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.4,
+        "bloodPressure": 120,
+        "heartRate": 103,
+        "respiratoryRate": 20,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.1,
+        "bloodPressure": 154,
+        "heartRate": 100,
+        "respiratoryRate": 9,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 94,
+        "heartRate": 84,
+        "respiratoryRate": 10,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 142,
+        "heartRate": 82,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.2,
+        "bloodPressure": 127,
+        "heartRate": 54,
+        "respiratoryRate": 21,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.1,
+        "bloodPressure": 133,
+        "heartRate": 72,
+        "respiratoryRate": 18,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 142,
+        "heartRate": 98,
+        "respiratoryRate": 21,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 139,
+        "heartRate": 74,
+        "respiratoryRate": 25,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.3,
+        "bloodPressure": 120,
+        "heartRate": 55,
+        "respiratoryRate": 17,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.1,
+        "bloodPressure": 121,
+        "heartRate": 103,
+        "respiratoryRate": 12,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.0,
+        "bloodPressure": 130,
+        "heartRate": 51,
+        "respiratoryRate": 13,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.0,
+        "bloodPressure": 136,
+        "heartRate": 78,
+        "respiratoryRate": 19,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 101,
+        "heartRate": 109,
+        "respiratoryRate": 22,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.4,
+        "bloodPressure": 147,
+        "heartRate": 56,
+        "respiratoryRate": 9,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.0,
+        "bloodPressure": 123,
+        "heartRate": 57,
+        "respiratoryRate": 9,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.5,
+        "bloodPressure": 97,
+        "heartRate": 91,
+        "respiratoryRate": 25,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.8,
+        "bloodPressure": 149,
+        "heartRate": 78,
+        "respiratoryRate": 25,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.7,
+        "bloodPressure": 138,
+        "heartRate": 68,
+        "respiratoryRate": 17,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.0,
+        "bloodPressure": 110,
+        "heartRate": 56,
+        "respiratoryRate": 21,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.3,
+        "bloodPressure": 111,
+        "heartRate": 66,
+        "respiratoryRate": 10,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.4,
+        "bloodPressure": 103,
+        "heartRate": 79,
+        "respiratoryRate": 24,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.7,
+        "bloodPressure": 117,
+        "heartRate": 86,
+        "respiratoryRate": 22,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.4,
+        "bloodPressure": 116,
+        "heartRate": 60,
+        "respiratoryRate": 20,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.5,
+        "bloodPressure": 105,
+        "heartRate": 70,
+        "respiratoryRate": 22,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.4,
+        "bloodPressure": 102,
+        "heartRate": 54,
+        "respiratoryRate": 8,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 149,
+        "heartRate": 65,
+        "respiratoryRate": 10,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.5,
+        "bloodPressure": 155,
+        "heartRate": 50,
+        "respiratoryRate": 25,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 94,
+        "heartRate": 82,
+        "respiratoryRate": 14,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.2,
+        "bloodPressure": 91,
+        "heartRate": 61,
+        "respiratoryRate": 9,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.1,
+        "bloodPressure": 148,
+        "heartRate": 100,
+        "respiratoryRate": 14,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 121,
+        "heartRate": 106,
+        "respiratoryRate": 16,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.5,
+        "bloodPressure": 107,
+        "heartRate": 72,
+        "respiratoryRate": 24,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 147,
+        "heartRate": 107,
+        "respiratoryRate": 17,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 145,
+        "heartRate": 71,
+        "respiratoryRate": 15,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.7,
+        "bloodPressure": 120,
+        "heartRate": 54,
+        "respiratoryRate": 25,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.2,
+        "bloodPressure": 122,
+        "heartRate": 69,
+        "respiratoryRate": 18,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.9,
+        "bloodPressure": 109,
+        "heartRate": 59,
+        "respiratoryRate": 25,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.1,
+        "bloodPressure": 97,
+        "heartRate": 94,
+        "respiratoryRate": 24,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.9,
+        "bloodPressure": 94,
+        "heartRate": 98,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 108,
+        "heartRate": 98,
+        "respiratoryRate": 19,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.1,
+        "bloodPressure": 159,
+        "heartRate": 64,
+        "respiratoryRate": 11,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.8,
+        "bloodPressure": 148,
+        "heartRate": 66,
+        "respiratoryRate": 22,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.9,
+        "bloodPressure": 124,
+        "heartRate": 101,
+        "respiratoryRate": 15,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 119,
+        "heartRate": 86,
+        "respiratoryRate": 13,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.0,
+        "bloodPressure": 100,
+        "heartRate": 103,
+        "respiratoryRate": 12,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.4,
+        "bloodPressure": 123,
+        "heartRate": 103,
+        "respiratoryRate": 8,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.1,
+        "bloodPressure": 147,
+        "heartRate": 60,
+        "respiratoryRate": 14,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.5,
+        "bloodPressure": 118,
+        "heartRate": 84,
+        "respiratoryRate": 16,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.2,
+        "bloodPressure": 118,
+        "heartRate": 58,
+        "respiratoryRate": 15,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.3,
+        "bloodPressure": 111,
+        "heartRate": 78,
+        "respiratoryRate": 24,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.0,
+        "bloodPressure": 154,
+        "heartRate": 74,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.5,
+        "bloodPressure": 124,
+        "heartRate": 100,
+        "respiratoryRate": 15,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 90,
+        "heartRate": 61,
+        "respiratoryRate": 22,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.7,
+        "bloodPressure": 124,
+        "heartRate": 65,
+        "respiratoryRate": 17,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 143,
+        "heartRate": 83,
+        "respiratoryRate": 17,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.4,
+        "bloodPressure": 119,
+        "heartRate": 83,
+        "respiratoryRate": 18,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.1,
+        "bloodPressure": 96,
+        "heartRate": 81,
+        "respiratoryRate": 18,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.9,
+        "bloodPressure": 91,
+        "heartRate": 107,
+        "respiratoryRate": 19,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 154,
+        "heartRate": 92,
+        "respiratoryRate": 16,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.0,
+        "bloodPressure": 135,
+        "heartRate": 76,
+        "respiratoryRate": 16,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.1,
+        "bloodPressure": 136,
+        "heartRate": 86,
+        "respiratoryRate": 9,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.4,
+        "bloodPressure": 159,
+        "heartRate": 108,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.3,
+        "bloodPressure": 121,
+        "heartRate": 107,
+        "respiratoryRate": 23,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.7,
+        "bloodPressure": 90,
+        "heartRate": 100,
+        "respiratoryRate": 10,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.5,
+        "bloodPressure": 91,
+        "heartRate": 54,
+        "respiratoryRate": 14,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.2,
+        "bloodPressure": 147,
+        "heartRate": 70,
+        "respiratoryRate": 20,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.1,
+        "bloodPressure": 111,
+        "heartRate": 99,
+        "respiratoryRate": 12,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.5,
+        "bloodPressure": 155,
+        "heartRate": 70,
+        "respiratoryRate": 8,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.2,
+        "bloodPressure": 142,
+        "heartRate": 104,
+        "respiratoryRate": 16,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.4,
+        "bloodPressure": 147,
+        "heartRate": 92,
+        "respiratoryRate": 8,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 105,
+        "heartRate": 63,
+        "respiratoryRate": 11,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.6,
+        "bloodPressure": 120,
+        "heartRate": 71,
+        "respiratoryRate": 17,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 100.0,
+        "bloodPressure": 132,
+        "heartRate": 91,
+        "respiratoryRate": 19,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.4,
+        "bloodPressure": 92,
+        "heartRate": 106,
+        "respiratoryRate": 17,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.3,
+        "bloodPressure": 128,
+        "heartRate": 76,
+        "respiratoryRate": 8,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.0,
+        "bloodPressure": 153,
+        "heartRate": 60,
+        "respiratoryRate": 14,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 108,
+        "heartRate": 58,
+        "respiratoryRate": 21,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.4,
+        "bloodPressure": 103,
+        "heartRate": 110,
+        "respiratoryRate": 11,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.4,
+        "bloodPressure": 142,
+        "heartRate": 69,
+        "respiratoryRate": 25,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 157,
+        "heartRate": 67,
+        "respiratoryRate": 9,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.7,
+        "bloodPressure": 92,
+        "heartRate": 60,
+        "respiratoryRate": 19,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.8,
+        "bloodPressure": 107,
+        "heartRate": 95,
+        "respiratoryRate": 19,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 97.5,
+        "bloodPressure": 150,
+        "heartRate": 71,
+        "respiratoryRate": 19,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.8,
+        "bloodPressure": 93,
+        "heartRate": 99,
+        "respiratoryRate": 18,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 118,
+        "heartRate": 70,
+        "respiratoryRate": 15,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.6,
+        "bloodPressure": 151,
+        "heartRate": 80,
+        "respiratoryRate": 21,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.2,
+        "bloodPressure": 100,
+        "heartRate": 109,
+        "respiratoryRate": 9,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 98.9,
+        "bloodPressure": 126,
+        "heartRate": 98,
+        "respiratoryRate": 8,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.6,
+        "bloodPressure": 158,
+        "heartRate": 109,
+        "respiratoryRate": 16,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.5,
+        "bloodPressure": 124,
+        "heartRate": 98,
+        "respiratoryRate": 24,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 98.1,
+        "bloodPressure": 102,
+        "heartRate": 100,
+        "respiratoryRate": 13,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 97.0,
+        "bloodPressure": 144,
+        "heartRate": 69,
+        "respiratoryRate": 15,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 98.5,
+        "bloodPressure": 105,
+        "heartRate": 89,
+        "respiratoryRate": 19,
+        "outcome": "followup"
+    },
+    {
+        "temperature": 99.9,
+        "bloodPressure": 111,
+        "heartRate": 81,
+        "respiratoryRate": 18,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 99.0,
+        "bloodPressure": 142,
+        "heartRate": 98,
+        "respiratoryRate": 20,
+        "outcome": "healthy"
+    },
+    {
+        "temperature": 99.6,
+        "bloodPressure": 133,
+        "heartRate": 93,
+        "respiratoryRate": 13,
+        "outcome": "critical"
+    },
+    {
+        "temperature": 97.9,
+        "bloodPressure": 102,
+        "heartRate": 67,
+        "respiratoryRate": 11,
+        "outcome": "followup"
+    }
+]
